@@ -1334,3 +1334,10 @@ button:hover {
     justify-content: center;
 
 }
+
+.manufacturer_heading {
+    font-size: 50px;
+    position: relative;
+    left: 60px;
+    top: 90px;
+}
